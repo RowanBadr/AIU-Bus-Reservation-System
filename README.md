@@ -23,7 +23,7 @@ The project focuses on **database design and SQL implementation**.
 3. Execute the script to create the database schema
 
 ## 📄 Documentation
-contains full system explanation, ER diagrams, and design decisions.
+Contains full system explanation, ER diagrams, and design decisions.
 
 ## 🛠️ Tools Used
 - SQL
